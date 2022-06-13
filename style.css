@@ -4,10 +4,17 @@
     
     height: 1100px;
 }
-.colonne_droit{
+.colonne_gauche{
+    width: 200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.colonne_droite{
     background-color: black;
     width: 500px;
-    height: 100px;
+    height: 1000px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .colonne_milieu{
     color: coral;
